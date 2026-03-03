@@ -28,11 +28,11 @@ Main columns include:
 Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Segment, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit.
 
 ### 4. Tools Used
-Excel (Power Query) for data cleaning 
-PostgreSQL for SQL analysis
-Python (Pandas, NumPy) for data manipulation
-Matplotlib and Seaborn for visualisation
-Power BI for dashboard development
+- Excel (Power Query) for data cleaning 
+- PostgreSQL for SQL analysis
+- Python (Pandas, NumPy) for data manipulation
+- Matplotlib and Seaborn for visualisation
+- Power BI for dashboard development
 
 ### 5. Analysis Process
 
