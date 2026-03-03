@@ -1,4 +1,4 @@
-# E---Commerce-Sales-Analysis
+# E-Commerce-Sales-Analysis
 
 E-Commerce Sales Analysis
 1. Project Overview
@@ -105,8 +105,6 @@ ecomm-analysis/
 [Open Notebook](e-commerce_eds.ipynb)
 
 [Dashboard Screenshot](https://github.com/bodademayur02-code/E---Commerce-Sales-Analysis/raw/refs/heads/main/e-commerce%20analysis%20dashboard.pbix)
-
-[README.md/](https://github.com/bodademayur02-code/E---Commerce-Sales-Analysis/edit/main/README.md)
 
 ### 9. How to Run
 
