@@ -5,7 +5,7 @@ E-Commerce Sales Analysis
 This is an end-to-end data analytics project analysing an e-commerce dataset to understand sales performance, profitability drivers, discount impact, customer behaviour, and delivery trends.
 The project covers data cleaning, SQL analysis, Python exploratory data analysis (EDA), and dashboard creation in Power BI.
 
-# 2. Business Problem
+### 2. Business Problem
 The business generated $2.30M in revenue over four years but achieved only a 12% profit margin, which is lower than the industry benchmark of 15–25%.
 
 Key questions addressed:
@@ -16,7 +16,7 @@ Which regions and segments perform best?
 Are delivery delays impacting performance?
 Why is revenue high but margin low?
 
-# 3. Dataset Information
+### 3. Dataset Information
 Source: Kaggle (Superstore-style dataset)
 Period: 2014–2017
 Records: 9,993 order lines
@@ -27,14 +27,14 @@ Geography: United States (4 regions, 49 states)
 Main columns include:
 Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Segment, Region, Category, Sub-Category, Sales, Quantity, Discount, Profit.
 
-# 4. Tools Used
+### 4. Tools Used
 Excel (Power Query) for data cleaning 
 PostgreSQL for SQL analysis
 Python (Pandas, NumPy) for data manipulation
 Matplotlib and Seaborn for visualisation
 Power BI for dashboard development
 
-# 5. Analysis Process
+### 5. Analysis Process
 
 ### Step 1 – Data Collection
 - The dataset was downloaded from Kaggle.
